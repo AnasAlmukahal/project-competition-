@@ -1,0 +1,215 @@
+
+#logo{
+width: 5em;
+margin-left: 45em;
+margin-bottom: 3em;
+position:absolute;
+bottom: 38.3em;
+}
+#search{
+width: 1em;
+position: absolute;
+cursor: not-allowed;
+margin-left: 50px;
+
+}
+.search_bar{
+    border: 0;
+
+}
+.search_button{
+    display: flex;
+    position: absolute;
+    margin-left: 2em;
+    margin-bottom: 50px;
+    cursor: pointer;
+    outline: none;
+    border: 0;
+    
+}
+input{
+    border: 0;
+}
+input[placeholder]{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.search_bar{
+    margin-left: 50px;
+    margin-top: 1.5em;
+}
+#my_cart{
+    font-size: 15px;
+    background-color:white;
+    border: none;
+    padding-left: 90em;
+}
+#cart{
+    position: absolute;
+    margin-left: 82em;
+    width: 25px;
+    margin-top: 0em;
+    left: 20px;
+}/*
+.demobox{
+    width: 100%;
+    position: absolute;
+    margin-top: 8em;
+    height: 100px;
+    background-color:#A59E8C;
+}*/
+#laptop{
+margin-left: 0.5em;
+}
+#Ltext{
+    font-size:2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top: 1em;
+    margin-left: 0.8em;
+    text-decoration: none;
+    color: black;
+    
+}
+.Lwrap{
+    position: absolute;
+    left: 5em;
+    top: 4em;
+    cursor: pointer;
+    text-decoration: none;
+}
+#laptop{
+    position: absolute;
+    margin-bottom: 10em;
+    margin-right: 2em;
+    text-decoration: none;
+    color: #103297;
+}
+hr{
+
+    left: 0%;
+    width: 100%;
+    border-color: #3D3B30;
+    color: gray;
+    top: -1em;
+}
+#Ctext{
+    position: absolute;
+    font-size: 2em;
+    text-decoration: none;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 11em;
+    top: 3em;
+}
+#computer{
+    text-decoration: none;
+    color: #103297;
+    position: absolute;
+    margin-bottom: 25em;
+    top: 1em;
+    margin-left: 6em;
+}
+#Ltext:hover{
+    transition: 0.5s;
+    color: red;
+}
+#Ctext:hover{
+    transition:0.5s;
+    color: red;
+}
+#accessories{
+    text-decoration: none;
+    color: #103297;
+    position: absolute;
+    margin-left: 10em;
+    top: 1em;
+}
+#Atext{
+    text-decoration: none;
+    color: black;
+    font-size: 2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    margin-left: 18.5em;
+    top: 3em;
+}
+#Atext:hover{
+    transition: 0.5s;
+    color: red;
+}
+#offer{
+    text-decoration: none;
+    color: #103297;
+    position: absolute;
+    margin-left: 14em;
+    top: 1em;
+}
+#Otext{
+    text-decoration: none;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2em;
+    position: absolute;
+    margin-left: 26em;
+    top: 3em;
+}
+#Otext:hover{
+    transition: 0.5s;
+    color: red;
+}
+#gaming{
+    text-decoration: none;
+    color: #103297;
+    position: absolute;
+    margin-left: 17.5em;
+    top: 1em;
+}
+#Gtext{
+    text-decoration: none;
+    color: black;
+    font-size: 2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    margin-left: 34.5em;
+    top: 3em;
+}
+#Gtext:hover{
+    transition: 0.5s;
+    color: red;
+}
+#soon{
+    text-decoration: none;
+    color: #103297;
+    position: absolute;
+    margin-left: 20.5em;
+    top: 1em;
+}
+#Stext{
+    text-decoration: none;
+    color: black;
+    font-size: 2em;
+    
+    position: absolute;
+    margin-left: 40em;
+    top: 3em;
+}
+#Stext:hover{
+    transition: 0.5s;
+    color: red;
+}
+.parallax{
+    background-image: url(pictures/parallax.png);
+    min-height: 700px;
+    width: 100%;
+    margin-top: 5em;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#ad_one{
+    width: 55em;
+    position: absolute;
+    right:19em;
+    margin-top: 10em;
+}
